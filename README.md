@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ej&label=Profile%20views&color=0e75b6&style=flat" alt="ej" /> </p>
 
-- 👨‍💻 All of my projects are available at [ejbarba.netlify.app](ejbarba.netlify.app)
+- 👨‍💻 All of my projects are available at [ejbarba.netlify.app](https://ejbarba.netlify.app)
 
-- 📝 I have experience writing articles on [https://dev.to/ejbarba](https://dev.to/ejbarba)
+- 📝 I have experience writing articles on [dev.to](https://dev.to/ejbarba)
 
 - 🌱 I’m currently refreshing on topics such as **React, Node.js, RESTful APIs, GraphQL**
 
@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **bit.elijah.barba@gmail.com**
 
-- 📄 Know about my experiences in [bit.ly/ejbarbaresume](bit.ly/ejbarbaresume)
+- 📄 Check my resume here: [link](https://bit.ly/ejbarbaresume)
 
 - ⚡ Fun fact: **I love watching movies and trying new food!**
 
