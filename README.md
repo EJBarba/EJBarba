@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ej&label=Profile%20views&color=0e75b6&style=flat" alt="ej" /> </p>
 
-- 👨‍💻 All of my projects are available at [ejbarba.netlify.app](https://ejbarba.netlify.app)
-
 - 📝 I have experience writing blog posts on [dev.to](https://dev.to/ejbarba)
 
 - 🌱 I’m currently refreshing on topics such as **React, Node.js, RESTful APIs, GraphQL**
