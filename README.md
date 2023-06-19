@@ -5,17 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ej&label=Profile%20views&color=0e75b6&style=flat" alt="ej" /> </p>
 
-- 📝 I have experience writing blog posts on [dev.to](https://dev.to/ejbarba)
-
-- 🌱 I’m currently refreshing on topics such as **React, Node.js, RESTful APIs, GraphQL**
-
-- 🔭 I’m currently exploring **TypeScript, Sass, Redux, Playwright**
+- 🌱 I’m currently writing code in **React, Node.js, NestJS, AWS**
 
 - 📫 Reach me at **bit.elijah.barba@gmail.com**
-
-- 📄 Check my resume here: [link](https://bit.ly/ejbarbaresume)
-
-- ⚡ Fun fact: **I love watching movies and trying new food!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
