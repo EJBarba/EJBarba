@@ -26,5 +26,5 @@
 # 
 
 [![EJBarba's GitHub stats](https://github-readme-stats-ten-drab-31.vercel.app/api?username=EJBarba&include_all_commits=true&show_icons=true&show=reviews&theme=transparent&hide=stars,contribs&hide_rank=true)](https://github-readme-stats-ten-drab-31.vercel.app) 
-[![Top Langs](https://github-readme-stats-ten-drab-31.vercel.app/api/top-langs/?username=EJBarba&hide=c%23,shaderlab,hlsl&theme=transparent&layout=compact&card_width=300)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-ten-drab-31.vercel.app)https://github-readme-stats-ten-drab-31.vercel.app)
+[![Top Langs](https://github-readme-stats-ten-drab-31.vercel.app/api/top-langs/?username=EJBarba&hide=c%23,shaderlab,hlsl&theme=transparent&layout=compact&card_width=400)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-ten-drab-31.vercel.app)https://github-readme-stats-ten-drab-31.vercel.app)
 
