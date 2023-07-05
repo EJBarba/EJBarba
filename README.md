@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ej&label=Profile%20views&color=0e75b6&style=flat" alt="ej" /> </p>
 
-- 🌱 I’m currently writing code in **React, Node.js, NestJS, AWS**
+- 🌱 I’m currently writing code in **MERN - React, Express.js, Node.js, MongoDB**
 
 - 📫 Reach me at **bit.elijah.barba@gmail.com**
 
