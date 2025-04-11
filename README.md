@@ -1,22 +1,45 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://ejbarba.netlify.app)
-<h1 align="center">Hi 👋, I'm Elijah Barba</h1>
-<h3 align="center">Independent problem solver and results-driven Full Stack Developer from the Philippines</h3>
+# 👋 Hi there, I'm Elijah Barba
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ej&label=Profile%20views&color=0e75b6&style=flat" alt="ej" /> </p>
+**Full Stack Software Engineer**  
+🌐 [www.elijahbarba.com](https://www.elijahbarba.com)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://dev.to/ejbarba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ejbarba" height="30" width="40" /></a>
-<a href="https://twitter.com/elijahbarba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elijahbarba" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/elijah-barba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elijah-barba" height="30" width="40" /></a>
-<a href="https://fb.com/elijahjeremiah.barba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elijahjeremiah.barba" height="30" width="40" /></a>
-</p>
+[![Website](https://img.shields.io/badge/Portfolio-elijahbarba.com-blue?style=flat&logo=google-chrome)](https://www.elijahbarba.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ElijahBarba-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/elijah-barba)
+[![GitHub](https://img.shields.io/github/followers/EJBarba?label=GitHub&style=flat&logo=github)](https://github.com/EJBarba)
+[![Gmail](https://img.shields.io/badge/Gmail-bit.elijah.barba@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bit.elijah.barba@gmail.com)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-# 
+## 🧠 Work Experience
 
-[![EJBarba's GitHub stats](https://github-readme-stats-ten-drab-31.vercel.app/api?username=EJBarba&include_all_commits=true&show_icons=true&show=reviews&theme=transparent&hide=stars,contribs&hide_rank=true)](https://github-readme-stats-ten-drab-31.vercel.app) 
-[![Top Langs](https://github-readme-stats-ten-drab-31.vercel.app/api/top-langs/?username=EJBarba&hide=c%23,shaderlab,hlsl&theme=transparent&layout=compact&card_width=400)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-ten-drab-31.vercel.app)https://github-readme-stats-ten-drab-31.vercel.app)
+- **Full Stack Developer** — *Department of Social Welfare and Development* (2024 – Present)  
+- **Software Engineering Team Lead** — *SparkPoint* (2022 – 2023)  
+- **Software Engineer** — *SparkPoint* (2020 – 2022)  
+- **Junior Web Developer** — *Boomsourcing* (2019 – 2020)
 
+---
+
+## 🛠️ Skills & Tools
+
+**Languages & Frameworks:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**DevOps & Automation:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-FF6D70?style=flat&logo=n8n&logoColor=white)
+
+**Design & CMS:**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Craft CMS](https://img.shields.io/badge/-Craft%20CMS-E5422B?style=flat&logo=craftcms&logoColor=white)
+
+---
+
+> *"Build fast, stay lean, ship what matters."*
