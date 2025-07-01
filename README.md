@@ -35,10 +35,8 @@
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-FF6D70?style=flat&logo=n8n&logoColor=white)
 
-**Design & CMS:**  
+**Design:**  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Craft CMS](https://img.shields.io/badge/-Craft%20CMS-E5422B?style=flat&logo=craftcms&logoColor=white)
 
 ---
 
